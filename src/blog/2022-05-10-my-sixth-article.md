@@ -1,6 +1,6 @@
 ---
 title: My Sixth Article
-author: Doris Radeck
+author: Author
 date: 2022-05-10
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
